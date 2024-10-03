@@ -7,14 +7,16 @@ In this paper, we propose ThermaStrain, a novel co-teaching framework that achie
 During training, ThermaStrain incorporates a wearable electrodermal activity (EDA) sensor to generate stress-indicative representations from thermal videos, emulating stress-indicative representations from a wearable EDA sensor. During testing, only thermal sensing is used, and stress-indicative patterns from thermal data and emulated EDA representations are extracted to improve stress assessment. 
 
 <p align="center">
-  <img src="figs/Model_structure.png" width=90%/>
+  <img src="figs/Model_structure.png" width=60%/>
 </p>
 
-Extensive evaluations highlight ThermaStrain's effectiveness in recognizing stress-indicative attributes, its adaptability across distances and stress scenarios, real-time executability on edge platforms, its applicability to multi-individual sensing, ability to function on limited visibility and unfamiliar conditions, and the advantages of its co-teaching approach. These evaluations validate ThermaStrain's fidelity and its potential for enhancing stress assessment.
+To evaluate our model, we collected a comprehensive dataset with thermal video and EDA data under various stress conditions and distances. The study protocol is illustrated in the figure below. On average, each data collection session lasted around 15 minutes, including the gaps between tasks.
 
 <p align="center">
-  <img src="figs/protocol.png" width=90%/>
+  <img src="figs/protocol.png" width=60%/>
 </p>
+
+For your convenience, the preprocessed data is provided [here]().
 
 If you find this work useful, please consider to cite as follows:
 
