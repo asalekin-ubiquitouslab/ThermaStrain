@@ -20,13 +20,13 @@ For your convenience, the preprocessed data is provided [here]().
 
 If you find this work useful, please consider to cite as follows:
 
-      @article{xiao2024reading,
-    title={Reading between the heat: Co-teaching body thermal signatures for non-intrusive stress detection},
-    author={Xiao, Yi and Sharma, Harshit and Zhang, Zhongyang and Bergen-Cico, Dessa and Rahman, Tauhidur and Salekin, Asif},
-    journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
-    volume={7},
-    number={4},
-    pages={1--30},
-    year={2024},
-    publisher={ACM New York, NY, USA}
+@article{xiao2024reading,
+  title={Reading between the heat: Co-teaching body thermal signatures for non-intrusive stress detection},
+  author={Xiao, Yi and Sharma, Harshit and Zhang, Zhongyang and Bergen-Cico, Dessa and Rahman, Tauhidur and Salekin, Asif},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={7},
+  number={4},
+  pages={1--30},
+  year={2024},
+  publisher={ACM New York, NY, USA}
   }
