@@ -19,6 +19,7 @@ To evaluate our model, we collected a comprehensive dataset with thermal video a
 For your convenience, the preprocessed data is provided [here]().
 
 If you find this work useful, please consider to cite as follows:
+
   @article{xiao2024reading,
     title={Reading between the heat: Co-teaching body thermal signatures for non-intrusive stress detection},
     author={Xiao, Yi and Sharma, Harshit and Zhang, Zhongyang and Bergen-Cico, Dessa and Rahman, Tauhidur and Salekin, Asif},
